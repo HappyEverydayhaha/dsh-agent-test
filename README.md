@@ -12,3 +12,15 @@ The cursor keeps blinking,
 the morning is new —
 a small, quiet greeting
 from me to you.
+
+## 爱情小诗
+
+你笑的时候，
+窗外的风都变轻了；
+我原本要说的许多话，
+忽然只剩一句：真好看。
+
+后来我们一起走路，
+路灯把影子拉得很长——
+长到足够装下
+我们往后的许多年。
